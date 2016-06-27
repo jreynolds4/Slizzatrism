@@ -1,0 +1,77 @@
+@font-face {
+    font-family: amhara;
+    src: url(../font/Amhara_reduced.otf);
+}
+
+body {
+    font-family: amhara, "Arial";
+}
+
+.home-heading {
+  text-align: center;
+  font-size: 90px;
+}
+
+.masthead-brand a {
+  color: #328332;
+}
+
+.masthead h1 {
+  text-align: center;
+}
+
+.media table {
+  margin: auto;
+}
+
+td {
+  padding-right: 5%;
+  padding-bottom: 5%;
+  border-style: solid;
+  border-width: thin;
+  text-align: center;
+}
+
+.media-title {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  font-size: 40px;
+}
+
+.modal-body form {
+  text-align: justify;
+  font-family: "Arial";
+}
+
+.modal-body input {
+  font-style: Arial;
+}
+
+.spacing {
+  padding-bottom: 15%;
+}
+
+.media-elements table {
+  margin: auto;
+  table-layout: fixed;
+}
+
+.media-elements td {
+  width: 33%;
+}
+
+.roster-elements table {
+  margin: auto;
+  table-layout: fixed;
+}
+
+.roster-image {
+  border-style: solid;
+  height: 150px;
+  width: 170px;
+  margin: auto;
+}
+
+.roster-elements td {
+  width: 33%;
+}
