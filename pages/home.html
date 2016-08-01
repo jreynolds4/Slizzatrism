@@ -1,3 +1,21 @@
+<?php
+if(isset($_POST['submit'])){
+    $to = "email@example.com"; // this is your Email address
+    $from = $_POST['email']; // this is the sender's Email address
+    $name = $_POST['first_name'];
+    $subject = "Form submission";
+    $subject2 = "Copy of your form submission";
+    $message = $first_name . " wrote the following:" . "\n\n" . $_POST['message'];
+    $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['message'];
+
+    $headers = "From:" . $from;
+    $headers2 = "From:" . $to;
+    mail($to,$subject,$message,$headers);
+    mail($from,$subject2,$message2,$headers2); // sends a copy of the message to the sender
+    echo "Mail Sent. Thank you " . $name . ", we will contact you shortly.";
+    // You can also use header('Location: thank_you.php'); to redirect to another page.
+    }
+?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -8,7 +26,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../media/favicon.ico">
+    <link rel="icon" href="../media/slizzatrism.ico">
 
     <title>$lizzatri$m</title>
 
@@ -74,11 +92,11 @@
               <h4 class="modal-title">Contact Form</h4>
             </div>
             <div class="modal-body">
-              <form action="MAILTO:jon.rey22@gmail.com" method="post" enctype="text/plain">
+              <form action="" method="post" enctype="text/plain">
                 <div class="modal-label">Name:<br></div>
                 <input type="text" name="name"><br>
                 <div class="modal-label">E-mail:<br></div>
-                <input type="text" name="mail"><br>
+                <input type="text" name="email"><br>
                 <div class="modal-label">Comment:<br></div>
                 <textarea name="comment" rows="3" cols="25"></textarea><br><br>
                 <input class="modal-label" type="submit" value="Send">
@@ -97,8 +115,6 @@
 
     <div class="container main-content centered" role="main">
 
-      <!-- <div class="site-heading">Slizzatrism</div> -->
-
       <div class="home-heading">SLIZZATRISM</div>
       <p class="lead">
         The Official Website of Ras Nebyu
@@ -111,6 +127,8 @@
         </div>
         <div class="col-sm-3"></div>
       </div>
+
+      <footer> Webmaster: <a href="MAILTO:jon.rey22@gmail.com">Dr. Jrey</a> </footer>
 
 
     </div>

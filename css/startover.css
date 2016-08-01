@@ -1,6 +1,6 @@
 @font-face {
     font-family: amhara;
-    src: url(../font/Amhara_reduced.otf);
+    src: url(../font/Amhara.otf);
 }
 
 /* Links */
@@ -14,11 +14,11 @@ a:hover {
 
 body {
   padding-top: 30px;
-  padding-bottom: 107px;
+  /*padding-bottom: 100px;*/
   font-family: amhara;
   color: #328332;
-  -webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
-          box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+  /*-webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+          box-shadow: inset 0 0 100px rgba(0,0,0,.5);*/
 }
 
 .home-heading {
@@ -37,16 +37,16 @@ body {
 
 .media-elements {
   padding-top: 5%;
+  font-size: 90%;
 }
 
 .media-padding {
-  padding-bottom: 20px;
+  padding-bottom: 2%;
 }
 
 .modal-label {
   font-family: amhara;
   color: #328332;
-
 }
 
 .modal-body {
@@ -70,9 +70,13 @@ body {
 
 .roster-image {
   border-style: solid;
-  height: 150px;
-  width: 170px;
+  height: 250px;
+  width: 270px;
   margin: auto;
+}
+
+.roster-img {
+  padding-bottom: 10px;
 }
 
 .modal-content {
@@ -93,6 +97,26 @@ body {
 
 .centered {
   text-align: center;
+}
+
+.slizz-crew {
+  padding-top: 20px;
+}
+
+.slizz-description {
+  padding-top: 30px;
+  text-align: justify;
+}
+
+.ampersand {
+  font-family: Arial;
+}
+
+footer {
+  font-size: 10px;
+  font-style: italic;
+  padding-top: 40px;
+  padding-bottom: 20px;
 }
 
 /*
@@ -173,4 +197,38 @@ body {
     width: 1000px;
   }
 
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+    .songs > iframe {
+      width:10px;
+      height:10px;
+    }
+
+    .slizz-crew {
+      height: 50%;
+      width: 75%;
+    }
+    .col-sm-3 .media-padding {
+      position: fixed;
+    }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    .songs > iframe {
+      width:10px;
+      height:10px;
+    }
 }
