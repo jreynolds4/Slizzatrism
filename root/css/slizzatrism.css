@@ -1,0 +1,241 @@
+@font-face {
+    font-family: amhara;
+    src: url(../font/Amhara.otf);
+}
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #328332;
+}
+
+
+
+body {
+  padding-top: 30px;
+  /*padding-bottom: 100px;*/
+  font-family: amhara;
+  color: #328332;
+  /*-webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
+          box-shadow: inset 0 0 100px rgba(0,0,0,.5);*/
+}
+
+.home-heading {
+  padding-top: 10%;
+  font-size: 90px;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+.site-heading {
+  font-size: 40px
+}
+
+.site-heading a:hover {
+  text-decoration: none;
+}
+
+.media-elements {
+  padding-top: 5%;
+  font-size: 90%;
+  position: sticky;
+}
+
+.media-padding {
+  padding-bottom: 2%;
+}
+
+.modal-label {
+  font-family: amhara;
+  color: #328332;
+}
+
+.modal-body {
+  font-family: "Arial";
+  color: black;
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+  overflow:hidden;
+}
+.videoWrapper iframe {
+  position:absolute;
+	top:0;
+	left:0;
+	width:100%;
+}
+
+.roster-image {
+  border-style: solid;
+  height: 250px;
+  width: 270px;
+  margin: auto;
+}
+
+.roster-img {
+  padding-bottom: 10px;
+}
+
+.modal-content {
+  width: 400px;
+  margin: auto;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.main-content .container div {
+  width: auto;
+  padding-top: 300px;
+}
+
+.centered {
+  text-align: center;
+}
+
+.slizz-crew {
+  padding-top: 20px;
+}
+
+.slizz-description {
+  padding-top: 30px;
+  text-align: justify;
+}
+
+.ampersand {
+  font-family: Arial;
+}
+
+footer {
+  font-size: 10px;
+  font-style: italic;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  bottom: 0px;
+}
+
+/*
+ * Header
+ */
+.masthead-brand {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.masthead-nav > li {
+  display: inline-block;
+}
+.masthead-nav > li + li {
+  margin-left: 20px;
+}
+.masthead-nav > li > a {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #328332; /* IE8 proofing */
+  border-bottom: 2px solid transparent;
+}
+.masthead-nav > li > a:hover,
+.masthead-nav > li > a:focus {
+  background-color: transparent;
+  border-bottom-color: #a9a9a9;
+  border-bottom-color: rgba(255,255,255,.25);
+}
+.masthead-nav > .active > a,
+.masthead-nav > .active > a:hover,
+.masthead-nav > .active > a:focus {
+  color: #328332;
+  border-bottom-color: #328332;
+}
+
+@media (min-width: 768px) {
+  .masthead-brand {
+    float: left;
+  }
+  .masthead-nav {
+    float: right;
+  }
+}
+
+/*
+ * Affix and center
+ */
+
+@media (min-width: 768px) {
+  /* Pull out the header and footer */
+  .masthead {
+    /*position: fixed;
+    top: 0;*/
+  }
+  .mastfoot {
+    position: fixed;
+    bottom: 0;
+  }
+  /* Start the vertical centering */
+  .site-wrapper-inner {
+    vertical-align: middle;
+  }
+  /* Handle the widths */
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+  }
+
+}
+
+@media (min-width: 992px) {
+  .masthead,
+  .mastfoot,
+  .cover-container {
+    width: 1000px;
+  }
+
+}
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+
+  .home-heading {
+    font-size: 70px;
+  }
+
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+
+    .slizz-crew {
+      height: 50%;
+      width: 75%;
+    }
+
+    .home-heading {
+      font-size: 60px;
+    }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+    iframe {
+      width:100%
+    }
+
+    .home-heading {
+      font-size: 50px;
+    }
+
+}
