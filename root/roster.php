@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="/photos/slizzatrism.ico">
+    <link rel="icon" href="./photos/slizzatrism.ico">
 
     <title>$lizzatri$m</title>
 
@@ -56,7 +56,7 @@
           <ul class="nav masthead-nav">
             <li><a href="./">Home</a></li>
             <li><a href="./media">Media</a></li>
-            <li class="active"><a href="./roster">Roster</a></li>
+            <li class="active"><a href="./roster">Washington Slizzards</a></li>
           </ul>
         </nav>
       </div>
@@ -99,7 +99,7 @@
 
     <div class="container main-content centered" role="main">
 
-      <div class="site-heading"><a href="./">SLIZZATRISM</a></div>
+      <div class="site-heading"><a href="./">WASHINGTON SLIZZARDS</a></div>
 
       <div class="slizz-description">
         Washington Slizzards are a collective of creative young adults based in
@@ -114,7 +114,7 @@
 
       <div class="row media-elements">
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/neb.png" height="171" width="171" /></div>
+          <div class="roster-img"><img src="./photos/slizzatrism.png" height="151" width="151" /></div>
           <div>RAS NEBYU</div>
           <div>Recording Artist, co-founder</div>
           <div>
@@ -124,7 +124,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/adonai-pic.jpg" width="171" height="171" /></div>
+          <div class="roster-img"><img src="./photos/adonay.png" width="171" height="151" /></div>
           <div>ADONAY G (of 3rd Wrld)</div>
           <div>Visual Artist, co-founder</div>
           <div>
@@ -133,7 +133,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/arkitech-pic.jpg" width="173" height="171" /></div>
+          <div class="roster-img"><img src="./photos/arckitech.png" width="171" height="151" /></div>
           <div>THE ARCKITECH</div>
           <div>Producer, Engineer, Recording Artist</div>
           <div>
@@ -143,7 +143,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/kmeta-pic.jpg" height="171" width="193" /></div>
+          <div class="roster-img"><img src="./photos/meta.png" height="171" width="193" /></div>
           <div>DJ K-META</div>
           <div>Disc Jockey, A<span class="ampersand">& </span>R</div>
           <div>
@@ -156,7 +156,7 @@
 
       <div class="row media-elements">
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/haile-supreme.jpg" height="173.3" width="173.3" /></div>
+          <div class="roster-img"><img src="./photos/haile.png" height="173.3" width="173.3" /></div>
           <div>HAILE SUPREME</div>
           <div>Recording Artist</div>
           <div>
@@ -166,7 +166,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/free-jacob-pic.jpg" height="173.3" width="173.3" /></div>
+          <div class="roster-img"><img src="./photos/jacob.png" height="173.3" width="203.3" /></div>
           <div>FREE JACOB</div>
           <div>Recording Artist</div>
           <div>
@@ -176,7 +176,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/ibrahim-pic.jpg" height="173.3" width="173.3" /></div>
+          <div class="roster-img"><img src="./photos/ibrahim.png" height="173.3" width="173.3" /></div>
           <div>IBRAHIM KEITA (of Les Autres)</div>
           <div>Producer, Recording Artist</div>
           <div>
@@ -186,7 +186,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/loh-pic.jpg" height="173.3" width="173.3"/></div>
+          <div class="roster-img"><img src="./photos/loh.png" height="173.3" width="173.3"/></div>
           <div>LOH</div>
           <div>Recording Artist</div>
           <div>
@@ -196,8 +196,18 @@
       </div>
 
       <div class="row media-elements">
+
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/corbin-pic.jpg" height="173.3" width="150.5 " /></div>
+          <div class="roster-img"><img class="roster-image" src="./photos/jerms-pic.jpg" height="173.3" width="184"/></div>
+          <div>GOODDAY JERMS</div>
+          <div>Management</div>
+          <div>
+            <a href="https://instagram.com/GoodDayJerms"><span><i class="fa fa-instagram"></i></span></a>
+            <a href="https://twitter.com/GoodDayJerms"><span><i class="fa fa-twitter"></i></span></a>
+          </div>
+        </div>
+        <div class="col-sm-6 media-padding">
+          <div class="roster-img"><img src="./photos/corbin.png" height="173.3" width="230.5 " /></div>
           <div>CORBIN BUTLER (of The Scofflaw)</div>
           <div>Producer, Recording Artist</div>
           <div>
@@ -207,16 +217,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/jerms-pic.jpg" height="173.3" width="184"/></div>
-          <div>GOODDAY JERMS</div>
-          <div>Management</div>
-          <div>
-            <a href="https://instagram.com/GoodDayJerms"><span><i class="fa fa-instagram"></i></span></a>
-            <a href="https://twitter.com/GoodDayJerms"><span><i class="fa fa-twitter"></i></span></a>
-          </div>
-        </div>
-        <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/solo-pic.jpg" height="173.3" width="166.6"/></div>
+          <div class="roster-img"><img class="roster-image" src="./photos/solo-pic.jpg" height="173.3" width="166.6"/></div>
           <div>SOLO</div>
           <div>Management</div>
           <div>

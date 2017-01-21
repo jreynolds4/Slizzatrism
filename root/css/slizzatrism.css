@@ -7,7 +7,8 @@
 a,
 a:focus,
 a:hover {
-  color: #328332;
+  /*color: #328332;*/
+  color: gold;
 }
 
 
@@ -16,13 +17,15 @@ body {
   padding-top: 30px;
   /*padding-bottom: 100px;*/
   font-family: amhara;
-  color: #328332;
+  /*color: #328332;*/
+  color: gold;
   /*-webkit-box-shadow: inset 0 0 100px rgba(0,0,0,.5);
           box-shadow: inset 0 0 100px rgba(0,0,0,.5);*/
+  background-color: black;
 }
 
 .home-heading {
-  padding-top: 10%;
+  padding-top: 5%;
   font-size: 90px;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
@@ -39,6 +42,7 @@ body {
   padding-top: 5%;
   font-size: 90%;
   position: sticky;
+  text-align: center;
 }
 
 .media-padding {
@@ -70,10 +74,7 @@ body {
 }
 
 .roster-image {
-  border-style: solid;
-  height: 250px;
-  width: 270px;
-  margin: auto;
+  border-radius: 50%;
 }
 
 .roster-img {
@@ -140,7 +141,8 @@ footer {
   padding-left: 0;
   font-size: 16px;
   font-weight: bold;
-  color: #328332; /* IE8 proofing */
+  /*color: #328332;*/ /* IE8 proofing */
+  color: gold;
   border-bottom: 2px solid transparent;
 }
 .masthead-nav > li > a:hover,
@@ -152,8 +154,10 @@ footer {
 .masthead-nav > .active > a,
 .masthead-nav > .active > a:hover,
 .masthead-nav > .active > a:focus {
-  color: #328332;
-  border-bottom-color: #328332;
+  /*color: #328332;
+  border-bottom-color: #328332;*/
+  color: gold;
+  border-bottom-color: gold;
 }
 
 @media (min-width: 768px) {

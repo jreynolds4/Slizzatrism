@@ -56,7 +56,7 @@
           <ul class="nav masthead-nav">
             <li><a href="./">Home</a></li>
             <li class="active"><a href="./media">Media</a></li>
-            <li><a href="./roster">Roster</a></li>
+            <li><a href="./roster">Washington Slizzards</a></li>
           </ul>
         </nav>
       </div>
@@ -121,7 +121,8 @@
             <iframe width="355" height="175" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/193092959&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
           </div>
           <div class="col-sm-4 media-padding">
-            <iframe width="355" height="175" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/25882065&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+            <iframe width="355" height="175" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276495528&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
           </div>
         </div>
 

@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="google-site-verification" content="1-Y-Jvq6gDmw0SsaiuqFWgVbGxGdIPYEmtjOdUvlLpU" />
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="/photos/slizzatrism.ico">
@@ -54,7 +55,7 @@
           <ul class="nav masthead-nav">
             <li class="active"><a href="./">Home</a></li>
             <li><a href="./media">Media</a></li>
-            <li><a href="./roster">Roster</a></li>
+            <li><a href="./roster">Washington Slizzards</a></li>
           </ul>
         </nav>
       </div>
@@ -98,15 +99,119 @@
       <div class="home-heading">SLIZZATRISM</div>
       <p class="lead">
         The Official Website of The Washington Slizzards
-      </p
+      </p>
 
-      <div class="centered">
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">CORBIN BUTLER FEAT. RAS NEBYU - COOLIN'</div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
-          <iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276495528&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/bqvDxMheq6Y" frameborder="0" allowfullscreen></iframe>
         </div>
         <div class="col-sm-3"></div>
       </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">HOLY SLIZZ 3 DOCUMENTARY</div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/c8L_cotLiDQ" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">Holy Slizz Holiday Party 2k16</div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p><a href="https://www.ticketfly.com/purchase/event/1395885" /><img src="photos/holy-slizz-3.jpg" width="100%" height="100%" /></p>
+          <p><a href="https://www.ticketfly.com/purchase/event/1395885" /> Click here for tickets</p>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <!--iframe width="100%" height="250" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/276495528&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe-->
+          <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/255480497&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        Slizzatrism is the third mixtape by Ethiopian-American recording artist
+        Ras Nebyu to be released August 2016 by the Washington Slizzards collective.
+        Named after the philosophy of the collective, the word “Slizzatrism” is
+        defined as “the art of finessing good energy to work in one’s favor via
+        pure intent, meditation and the acknowledgement of the ancestors”.
+        After spending a majority of 2015 releasing promotional singles and
+        performing at numerous events/venues/shows in New York and DC, Ras along
+        with DJ K-Meta went to Abidjan, Cote D’Ivoire to open for Nigerian afrobeat
+        pop-star WizKid. This trip to West Africa in the summer of 2015, as well
+        as other circumstances in his life inspired Ras to make the mixtape.
+        Recording sessions for the tape took place from April 2015 to June 2016
+        at Alladat Studios in Temple Hills, MD as Ras worked with childhood friend
+        and longtime collaborator known as The Arckitech in producing, recording
+        and mixing all the songs as well as contributing two guest verses of his
+        own (“Story” & “Blazin’”).  Primarily a hip-hop mixtape, Slizzatrism
+        incorporates musical styles from soul, reggae and dancehall with additional
+        production from Ibrahim Keita, Corbin Butler and Phil Oli on several tracks.
+        Its lyrics touch upon life in Uptown, DC and the practice of Slizzatrism,
+        along with themes of family, love and God.
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+    <div class="row centered">
+      <div class="col-sm-3"></div>
+      <div class="col-sm-6">
+        <p></p>
+        <iframe width="100%" height="350" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/282968932%3Fsecret_token%3Ds-I7X8a&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>        </div>
+      <div class="col-sm-3"></div>
+    </div>
 
       <footer class="centered"> Webmaster: <a href="MAILTO:jon.rey22@gmail.com">Dr. Jrey</a> </footer>
 
