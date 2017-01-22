@@ -178,25 +178,29 @@
       </div>
 
       <div class="row centered">
-        Slizzatrism is the third mixtape by Ethiopian-American recording artist
-        Ras Nebyu to be released August 2016 by the Washington Slizzards collective.
-        Named after the philosophy of the collective, the word “Slizzatrism” is
-        defined as “the art of finessing good energy to work in one’s favor via
-        pure intent, meditation and the acknowledgement of the ancestors”.
-        After spending a majority of 2015 releasing promotional singles and
-        performing at numerous events/venues/shows in New York and DC, Ras along
-        with DJ K-Meta went to Abidjan, Cote D’Ivoire to open for Nigerian afrobeat
-        pop-star WizKid. This trip to West Africa in the summer of 2015, as well
-        as other circumstances in his life inspired Ras to make the mixtape.
-        Recording sessions for the tape took place from April 2015 to June 2016
-        at Alladat Studios in Temple Hills, MD as Ras worked with childhood friend
-        and longtime collaborator known as The Arckitech in producing, recording
-        and mixing all the songs as well as contributing two guest verses of his
-        own (“Story” & “Blazin’”).  Primarily a hip-hop mixtape, Slizzatrism
-        incorporates musical styles from soul, reggae and dancehall with additional
-        production from Ibrahim Keita, Corbin Butler and Phil Oli on several tracks.
-        Its lyrics touch upon life in Uptown, DC and the practice of Slizzatrism,
-        along with themes of family, love and God.
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p>Slizzatrism is the third mixtape by Ethiopian-American recording artist
+          Ras Nebyu to be released August 2016 by the Washington Slizzards collective.
+          Named after the philosophy of the collective, the word “Slizzatrism” is
+          defined as “the art of finessing good energy to work in one’s favor via
+          pure intent, meditation and the acknowledgement of the ancestors”.
+          After spending a majority of 2015 releasing promotional singles and
+          performing at numerous events/venues/shows in New York and DC, Ras along
+          with DJ K-Meta went to Abidjan, Cote D’Ivoire to open for Nigerian afrobeat
+          pop-star WizKid. This trip to West Africa in the summer of 2015, as well
+          as other circumstances in his life inspired Ras to make the mixtape.
+          Recording sessions for the tape took place from April 2015 to June 2016
+          at Alladat Studios in Temple Hills, MD as Ras worked with childhood friend
+          and longtime collaborator known as The Arckitech in producing, recording
+          and mixing all the songs as well as contributing two guest verses of his
+          own (“Story” <span class="ampersand">& </span> “Blazin’”). Primarily a hip-hop mixtape, Slizzatrism
+          incorporates musical styles from soul, reggae and dancehall with additional
+          production from Ibrahim Keita, Corbin Butler and Phil Oli on several tracks.
+          Its lyrics touch upon life in Uptown, DC and the practice of Slizzatrism,
+          along with themes of family, love and God.</p>
+        </div>
+        <div class="col-sm-3"></div>
       </div>
 
       <div class="row centered">
