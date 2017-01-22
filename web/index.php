@@ -156,8 +156,8 @@
       <div class="row centered">
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
-          <p><a href="https://www.ticketfly.com/purchase/event/1395885" /><img src="photos/holy-slizz-3.jpg" width="100%" height="100%" /></p>
-          <p><a href="https://www.ticketfly.com/purchase/event/1395885" /> Click here for tickets</p>
+          <a href="https://www.ticketfly.com/purchase/event/1395885"><img src="photos/holy-slizz-3.jpg" width="100%" height="100%" /></a>
+          <p><a href="https://www.ticketfly.com/purchase/event/1395885"> Click here for tickets</a></p>
         </div>
         <div class="col-sm-3"></div>
       </div>
