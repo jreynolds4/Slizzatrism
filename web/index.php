@@ -36,7 +36,7 @@
 
     <script src="https://use.fontawesome.com/b026176100.js"></script>
 
-    <link href="/css/slizzatrism.css" rel="stylesheet">
+    <link href="./css/slizzatrism.css" rel="stylesheet">
   </head>
 
   <body>
