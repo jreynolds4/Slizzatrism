@@ -107,7 +107,7 @@
         <div class="col-sm-3"></div>
       </div>
 
-      <!--div class="row centered">
+      <div class="row centered">
         <div class="col-sm-3"></div>
         <div class="col-sm-6 lead">freejacob - Kids Around The Way
           <p>(Official Music Video)</p>
@@ -127,7 +127,7 @@
         <div class="col-sm-3"></div>
         <div class="col-sm-6"><hr></div>
         <div class="col-sm-3"></div>
-      </div-->
+      </div>
 
       <div class="row centered">
         <div class="col-sm-3"></div>
