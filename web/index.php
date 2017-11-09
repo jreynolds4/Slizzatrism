@@ -118,9 +118,11 @@
       <div class="row centered">
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
-          <p></p>
-          <iframe src="https://open.spotify.com/embed?uri=spotify:track:3fM8v0W3eE84zBVOvoHiZ3" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-        </div>
+        <p></p>
+        <iframe src="https://open.spotify.com/embed?uri=spotify:track:3fM8v0W3eE84zBVOvoHiZ3" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+        <p></p>
+        <p><a href="https://geo.itunes.apple.com/us/album/thirsty-packman-feat-rico-nasty/1304820621?i=1304820625&mt=1&app=music" style="display:inline-block;overflow:hidden;background:url(https://tools.applemusic.com/assets/shared/badges/en-us/music-lrg.svg) no-repeat;width:157px;height:45px;"></a></p>
+      </div>
         <div class="col-sm-3"></div>
       </div>
 
