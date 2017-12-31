@@ -109,30 +109,6 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead">Holy Slizz Holiday Party 2K17
-          <p></p>
-        </div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
-        <div class="col-sm-6">
-          <img class="img-responsive" src="photos/holy_slizz4.jpg" />
-          </br>
-          <a class="btn btn-success" href="https://www.ticketfly.com/event/1602085-holy-slizz-holiday-party-washington/"> Purchase Tickets</a>
-        </div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
-        <div class="col-sm-6"><hr></div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
         <div class="col-sm-6 lead">Ras Nebyu - Flex Today (Official Music Video) </div>
         <div class="col-sm-3"></div>
       </div>
@@ -339,26 +315,10 @@
         <div class="col-sm-6"><hr></div>
         <div class="col-sm-3"></div>
       </div>
-
+      
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead">Holy Slizz Holiday Party 2k16</div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
-        <div class="col-sm-6">
-          <img class="img-responsive" src="photos/holy-slizz-3.jpg" />
-          </br>
-          <a class="btn btn-success" href="https://www.ticketfly.com/purchase/event/1395885"> Purchase Tickets</a>
-        </div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
-        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-6 lead">Slizzatrism - The Mixtape</div>
         <div class="col-sm-3"></div>
       </div>
 
