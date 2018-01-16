@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="./photos/slizzatrism.ico">
+    <link rel="icon" href="./images/slizzatrism.ico">
 
     <title>$lizzatri$m</title>
 
@@ -114,7 +114,7 @@
 
       <div class="row media-elements">
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/slizzatrism.png" height="151" width="151" /></div>
+          <div class="roster-img"><img src="./images/slizzatrism.png" height="151" width="151" /></div>
           <div>RAS NEBYU</div>
           <div>Recording Artist, co-founder</div>
           <div>
@@ -124,7 +124,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/adonay.png" width="171" height="151" /></div>
+          <div class="roster-img"><img src="./images/adonay.png" width="171" height="151" /></div>
           <div>ADONAY G (of 3rd Wrld)</div>
           <div>Visual Artist, co-founder</div>
           <div>
@@ -133,7 +133,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/arckitech.png" width="171" height="151" /></div>
+          <div class="roster-img"><img src="./images/arckitech.png" width="171" height="151" /></div>
           <div>THE ARCKITECH</div>
           <div>Producer, Engineer, Recording Artist</div>
           <div>
@@ -143,7 +143,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/meta.png" height="171" width="193" /></div>
+          <div class="roster-img"><img src="./images/meta.png" height="171" width="193" /></div>
           <div>DJ K-META</div>
           <div>Disc Jockey, A<span class="ampersand">& </span>R</div>
           <div>
@@ -156,7 +156,7 @@
 
       <div class="row media-elements">
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/haile.png" height="173.3" width="173.3" /></div>
+          <div class="roster-img"><img src="./images/haile.png" height="173.3" width="173.3" /></div>
           <div>HAILE SUPREME</div>
           <div>Recording Artist</div>
           <div>
@@ -166,7 +166,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/jacob.png" height="173.3" width="203.3" /></div>
+          <div class="roster-img"><img src="./images/jacob.png" height="173.3" width="203.3" /></div>
           <div>FREE JACOB</div>
           <div>Recording Artist</div>
           <div>
@@ -176,7 +176,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/ibrahim.png" height="173.3" width="173.3" /></div>
+          <div class="roster-img"><img src="./images/ibrahim.png" height="173.3" width="173.3" /></div>
           <div>IBRAHIM KEITA (of Les Autres)</div>
           <div>Producer, Recording Artist</div>
           <div>
@@ -186,7 +186,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img src="./photos/loh.png" height="173.3" width="173.3"/></div>
+          <div class="roster-img"><img src="./images/loh.png" height="173.3" width="173.3"/></div>
           <div>LOH</div>
           <div>Recording Artist</div>
           <div>
@@ -198,7 +198,7 @@
       <div class="row media-elements">
 
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img class="roster-image" src="./photos/jerms-pic.jpg" height="173.3" width="184"/></div>
+          <div class="roster-img"><img class="roster-image" src="./images/jerms-pic.jpg" height="173.3" width="184"/></div>
           <div>GOODDAY JERMS</div>
           <div>Management</div>
           <div>
@@ -207,7 +207,7 @@
           </div>
         </div>
         <div class="col-sm-6 media-padding">
-          <div class="roster-img"><img src="./photos/corbin.png" height="173.3" width="230.5 " /></div>
+          <div class="roster-img"><img src="./images/corbin.png" height="173.3" width="230.5 " /></div>
           <div>CORBIN BUTLER (of The Scofflaw)</div>
           <div>Producer, Recording Artist</div>
           <div>
@@ -217,7 +217,7 @@
           </div>
         </div>
         <div class="col-sm-3 media-padding">
-          <div class="roster-img"><img class="roster-image" src="./photos/solo-pic.jpg" height="173.3" width="166.6"/></div>
+          <div class="roster-img"><img class="roster-image" src="./images/solo-pic.jpg" height="173.3" width="166.6"/></div>
           <div>SOLO</div>
           <div>Management</div>
           <div>
@@ -229,7 +229,7 @@
       </div>
 
 
-      <img class="slizz-crew" src="/photos/slizzards-pic.jpg"/>
+      <img class="slizz-crew" src="/images/slizzards-pic.jpg"/>
 
       <footer> Webmaster: <a href="MAILTO:jon.rey22@gmail.com">Dr. Jrey</a> </footer>
 

@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="/photos/slizzatrism.ico">
+    <link rel="icon" href="/images/slizzatrism.ico">
 
     <title>$lizzatri$m</title>
 

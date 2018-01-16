@@ -9,7 +9,7 @@
     <meta name="google-site-verification" content="XvlkARtVh0-KTz5ASxgjRqQCIB4vI5XoHcazK6JGpvY" />
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="/photos/slizzatrism.ico">
+    <link rel="icon" href="/images/slizzatrism.ico">
 
     <title>$lizzatri$m</title>
 
