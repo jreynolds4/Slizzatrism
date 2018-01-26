@@ -109,6 +109,51 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead sc-content">RAS NEBYU - JOHN HENRICK CLARKE (shot by @slizzica) </div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6" sc-content>
+          <p></p>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/msK-wyfrjhY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead sc-content">freejacob - Quiet Storm Freestyle </div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6" sc-content>
+          <p></p>
+          <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/386995817&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+<!-- -->
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
         <div class="col-sm-6 lead sc-content">Holy Slizz 4 Recap (shot by @slizzica) </div>
         <div class="col-sm-3"></div>
       </div>
