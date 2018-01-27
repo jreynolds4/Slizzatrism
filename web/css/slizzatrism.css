@@ -93,7 +93,7 @@ body {
   margin-bottom: 20px;
 }
 
-.main-content .container div {
+.main-content .container div iframe {
   width: auto;
   padding-top: 300px;
   margin: auto;
