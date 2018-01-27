@@ -96,6 +96,8 @@ body {
 .main-content .container div {
   width: auto;
   padding-top: 300px;
+  margin: auto;
+  text-align: center;
 }
 
 .centered {
