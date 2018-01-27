@@ -94,9 +94,9 @@
 
     </div>
 
-    <div class="container main-content centered" role="main">
+    <div class="container main-content centered sc-content" role="main">
 
-      <div class="home-heading sc-content">$LIZZATRISM</div>
+      <div class="home-heading">$LIZZATRISM</div>
       <p class="lead">
         The Official Website of The Washington Slizzards
       </p>
@@ -109,13 +109,13 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead sc-content">RAS NEBYU - JOHN HENRICK CLARKE (shot by @slizzica) </div>
+        <div class="col-sm-6 lead">RAS NEBYU - JOHN HENRICK CLARKE (shot by @slizzica) </div>
         <div class="col-sm-3"></div>
       </div>
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 sc-content">
+        <div class="col-sm-6">
           <p></p>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/msK-wyfrjhY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
@@ -130,13 +130,13 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead sc-content">freejacob - Quiet Storm Freestyle </div>
+        <div class="col-sm-6 lead">freejacob - Quiet Storm Freestyle </div>
         <div class="col-sm-3"></div>
       </div>
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6" sc-content>
+        <div class="col-sm-6">
           <p></p>
           <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/386995817&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
         </div>
@@ -154,13 +154,13 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead sc-content">Holy Slizz 4 Recap (shot by @slizzica) </div>
+        <div class="col-sm-6 lead">Holy Slizz 4 Recap (shot by @slizzica) </div>
         <div class="col-sm-3"></div>
       </div>
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6" sc-content>
+        <div class="col-sm-6">
           <p></p>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/fLi9B9gJ5bg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
@@ -175,13 +175,13 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead sc-content">freejacob - Roll in Peace (CDG Freestyle) </div>
+        <div class="col-sm-6 lead">freejacob - Roll in Peace (CDG Freestyle) </div>
         <div class="col-sm-3"></div>
       </div>
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6" sc-content>
+        <div class="col-sm-6">
           <p></p>
           <iframe width="100%" height="315" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/384150767&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
         </div>
@@ -197,13 +197,13 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead sc-content">Ras Nebyu - Flex Today (Official Music Video) </div>
+        <div class="col-sm-6 lead">Ras Nebyu - Flex Today (Official Music Video) </div>
         <div class="col-sm-3"></div>
       </div>
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6" sc-content>
+        <div class="col-sm-6">
           <p></p>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/xJjYj1nzohY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>      </div>
         <div class="col-sm-3"></div>
@@ -217,13 +217,13 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead sc-content">Arckitech - Twice (Prod. by Lasik Beats) </div>
+        <div class="col-sm-6 lead">Arckitech - Twice (Prod. by Lasik Beats) </div>
         <div class="col-sm-3"></div>
       </div>
 
     <div class="row centered">
       <div class="col-sm-3"></div>
-      <div class="col-sm-6 sc-content">
+      <div class="col-sm-6">
         <p></p>
         <iframe width="100%" height="550" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/363244247&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
       </div>
