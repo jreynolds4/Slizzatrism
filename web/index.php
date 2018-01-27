@@ -94,7 +94,7 @@
 
     </div>
 
-    <div class="container main-content centered sc-content" role="main">
+    <div class="container main-content centered" role="main">
 
       <div class="home-heading">$LIZZATRISM</div>
       <p class="lead">
@@ -104,6 +104,12 @@
       <div class="row centered">
         <div class="col-sm-3"></div>
         <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 sc-content"></div>
         <div class="col-sm-3"></div>
       </div>
 
@@ -474,5 +480,8 @@
     <script src="/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
+    <script>
+      
+    </script>
   </body>
 </html>
