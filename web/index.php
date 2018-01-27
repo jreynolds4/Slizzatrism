@@ -96,7 +96,7 @@
 
     <div class="container main-content centered" role="main">
 
-      <div class="home-heading">$LIZZATRISM</div>
+      <div class="home-heading sc-content">$LIZZATRISM</div>
       <p class="lead">
         The Official Website of The Washington Slizzards
       </p>
@@ -115,7 +115,7 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6" sc-content>
+        <div class="col-sm-6 sc-content">
           <p></p>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/msK-wyfrjhY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
