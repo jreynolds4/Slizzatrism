@@ -115,7 +115,7 @@
       
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead">Ras Nebyu - Don't Forget ft. Haile Supreme & Corbin Butler (Music Video)</div>
+        <div class="col-sm-6 lead">Ras Nebyu - Don't Forget ft. Haile Supreme <span class="ampersand">&</span> Corbin Butler (Music Video)</div>
         <div class="col-sm-3"></div>
       </div>
 
