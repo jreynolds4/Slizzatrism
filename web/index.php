@@ -111,7 +111,7 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead">Ras Nebyu & Arckitech - Praise the Lord (Remix)</div>
+        <div class="col-sm-6 lead">Ras Nebyu <span class="ampersand">&</span> Arckitech - Praise the Lord (Remix)</div>
         <div class="col-sm-3"></div>
       </div>
 
