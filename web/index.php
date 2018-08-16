@@ -111,6 +111,29 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">Arckitech - Twice (Official Music Video)</div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/n01E2HHnvmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <!-- END -->
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
         <div class="col-sm-6 lead">Ras Nebyu <span class="ampersand">&</span> Arckitech - Praise the Lord (Remix)</div>
         <div class="col-sm-3"></div>
       </div>
@@ -123,8 +146,6 @@
         </div>
         <div class="col-sm-3"></div>
       </div>
-      
-      <!-- END -->
       
       <div class="row centered">
         <div class="col-sm-3"></div>
