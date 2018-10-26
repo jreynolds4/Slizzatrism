@@ -1,5 +1,0 @@
-{
-  "AWS_REGION": "us-west-2",
-  "SLIZZATRISM_TABLE": "slizzatrism-table",
-  "NEW_SIGNUP_TOPIC": "arn:aws:sns:us-west-2:212693593161:contact-notifications"
-}
