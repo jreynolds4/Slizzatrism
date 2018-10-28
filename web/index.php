@@ -100,8 +100,31 @@
       <p class="lead">
         The Official Website of The Washington Slizzards
       </p>
-      
+            
       <!-- EDIT HERE -->
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">Ras Nebyu - Fear No Evil</div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/521208438&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <!-- END -->
       
       <div class="row centered">
         <div class="col-sm-3"></div>
@@ -123,8 +146,6 @@
         </div>
         <div class="col-sm-3"></div>
       </div>
-      
-      <!-- END -->
       
       <div class="row centered">
         <div class="col-sm-3"></div>
