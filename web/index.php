@@ -119,19 +119,23 @@
 
       <div class="row centered">
         <div class="col-sm-2"></div>
-        <div class="col-sm-3">
+        <div class="col-sm-4">
           <p></p>
           <img src="images/show-la-11-30.jpg" alt="LA Show" width="100%" height="auto">
           <p></p>
-          <p><button type="button" class="btn btn-success"><a href="https://www.eventbrite.com/e/ras-nebyu-live-on-sunset-blvd-tickets-52682487739">Click Here for Tickets</a></button></p>
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-4">
           <p></p>
-          <img src="images/show-la-11-30.jpg" alt="LA Show" width="100%" height="auto">
+          <img src="images/show-dc-12-13.jpg" alt="DC Show" width="100%" height="auto">
           <p></p>
-          <p><button type="button" class="btn btn-success"><a href="https://www.eventbrite.com/e/ras-nebyu-live-on-sunset-blvd-tickets-52682487739">Click Here for Tickets</a></button></p>
         </div>
         <div class="col-sm-2"></div>
+      </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.bridgeurl.com/ulw-mini-tour-ticket-links">Click Here for Tickets</a></button></p></div>
+        <div class="col-sm-3"></div>
       </div>
       
       <!-- END -->
