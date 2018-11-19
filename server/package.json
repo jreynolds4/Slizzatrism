@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Online Home of the Washington Slizzards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreynolds/Slizzatrism.git"
+  },
+  "author": "jon.rey22@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreynolds/Slizzatrism/issues"
+  },
+  "homepage": "https://github.com/jreynolds/Slizzatrism#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.7"
+  }
+}
