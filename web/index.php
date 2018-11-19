@@ -123,7 +123,7 @@
           <p></p>
           <img src="images/show-la-11-30.jpg" alt="LA Show">
           <p></p>
-          <p><button type="button" class="btn btn-default"><a href="https://www.eventbrite.com/e/ras-nebyu-live-on-sunset-blvd-tickets-52682487739">Click Here for Tickets</a></button></p>
+          <p><button type="button" class="btn btn-success"><a href="https://www.eventbrite.com/e/ras-nebyu-live-on-sunset-blvd-tickets-52682487739">Click Here for Tickets</a></button></p>
         </div>
         <div class="col-sm-3"></div>
       </div>
@@ -148,7 +148,7 @@
           <p></p>
           <img src="images/show-dc-12-13.jpg" alt="DC Show">
           <p></p>
-          <p><button type="button" class="btn btn-default"><a href="https://www.songbyrddc.com">Click Here for Tickets</a></button></p>
+          <p><button type="button" class="btn btn-success"><a href="https://www.songbyrddc.com">Click Here for Tickets</a></button></p>
         </div>
         <div class="col-sm-3"></div>
       </div>
