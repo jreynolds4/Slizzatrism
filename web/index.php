@@ -148,29 +148,6 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead"></div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
-        <div class="col-sm-6">
-          <p></p>
-          <img src="images/show-dc-12-13.jpg" alt="DC Show" width="100%" height="auto">
-          <p></p>
-          <p><button type="button" class="btn btn-success"><a href="https://www.songbyrddc.com">Click Here for Tickets</a></button></p>
-        </div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
-        <div class="col-sm-6"><hr></div>
-        <div class="col-sm-3"></div>
-      </div>
-
-      <div class="row centered">
-        <div class="col-sm-3"></div>
         <div class="col-sm-6 lead">Ras Nebyu - Proper Livin’ (Official Music Video)</div>
         <div class="col-sm-3"></div>
       </div>
