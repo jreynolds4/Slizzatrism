@@ -100,9 +100,57 @@
       <p class="lead">
         The Official Website of The Washington Slizzards
       </p>
+
+
             
       <!-- EDIT HERE -->
       
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead"></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <img src="images/show-la-11-30.jpg" alt="LA Show">
+          <p><a href="https://www.eventbrite.com/e/ras-nebyu-live-on-sunset-blvd-tickets-52682487739">Click Here for Tickets</a></p>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <!-- END -->
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead"></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <img src="images/show-dc-12-13.jpg" alt="DC Show">
+          <p><a href="https://www.songbyrddc.com">Click Here for Tickets</a></p>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+
       <div class="row centered">
         <div class="col-sm-3"></div>
         <div class="col-sm-6"><hr></div>
@@ -123,8 +171,6 @@
         </div>
         <div class="col-sm-3"></div>
       </div>
-      
-      <!-- END -->
       
       <div class="row centered">
         <div class="col-sm-3"></div>
