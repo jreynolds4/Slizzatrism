@@ -134,7 +134,7 @@
       
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.bridgeurl.com/ulw-mini-tour-ticket-links">Click Here for Tickets</a></button></p></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.bridgeurl.com/ras-nebyu-ulw-mini-tour-tickets">Click Here for Tickets</a></button></p></div>
         <div class="col-sm-3"></div>
       </div>
       
