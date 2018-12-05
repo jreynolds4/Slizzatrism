@@ -118,23 +118,18 @@
       </div>
 
       <div class="row centered">
-        <div class="col-sm-2"></div>
-        <div class="col-sm-4">
-          <p></p>
-          <img src="images/show-la-11-30.jpg" alt="LA Show" width="100%" height="auto">
-          <p></p>
-        </div>
-        <div class="col-sm-4">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
           <p></p>
           <img src="images/show-dc-12-13.jpg" alt="DC Show" width="100%" height="auto">
           <p></p>
         </div>
-        <div class="col-sm-2"></div>
+        <div class="col-sm-3"></div>
       </div>
       
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.bridgeurl.com/ras-nebyu-ulw-mini-tour-tickets">Click Here for Tickets</a></button></p></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.songbyrddc.com/shows/2018-12-13-ras-nebyu">Click Here for Tickets</a></button></p></div>
         <div class="col-sm-3"></div>
       </div>
       
