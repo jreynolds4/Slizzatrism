@@ -116,6 +116,12 @@
         <div class="col-sm-6 lead">ULW MINI TOUR</div>
         <div class="col-sm-3"></div>
       </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.songbyrddc.com/shows/2018-12-13-ras-nebyu">Click Here for Tickets</a></button></p></div>
+        <div class="col-sm-3"></div>
+      </div>
 
       <div class="row centered">
         <div class="col-sm-3"></div>
@@ -124,12 +130,6 @@
           <img src="images/show-dc-12-13.jpg" alt="DC Show" width="100%" height="auto">
           <p></p>
         </div>
-        <div class="col-sm-3"></div>
-      </div>
-      
-      <div class="row centered">
-        <div class="col-sm-3"></div>
-        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.songbyrddc.com/shows/2018-12-13-ras-nebyu">Click Here for Tickets</a></button></p></div>
         <div class="col-sm-3"></div>
       </div>
       
