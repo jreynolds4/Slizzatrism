@@ -113,7 +113,7 @@
       
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead">Superbowl LIII Anthem (Arckitech - In My Zone) Official Music Video</div>
+        <div class="col-sm-6 lead">Arckitech - In My Zone (Official Music Video)</div>
         <div class="col-sm-3"></div>
       </div>
 
