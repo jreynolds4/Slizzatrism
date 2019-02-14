@@ -54,7 +54,7 @@
         <nav>
           <ul class="nav masthead-nav">
             <li class="active"><a href="./">Home</a></li>
-            <li><a href="./shop">$lizz $hop</a></li>
+            <li><a href="./shop">$hop</a></li>
           </ul>
         </nav>
       </div>

@@ -4,3 +4,6 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 RewriteCond %{HTTP_HOST} ^slizzatrism.com [NC]
 RewriteRule ^(.*)$ http://www.slizzatrism.com/$1 [L,R=301]
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
