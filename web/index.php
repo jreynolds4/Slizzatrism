@@ -54,7 +54,7 @@
         <nav>
           <ul class="nav masthead-nav">
             <li class="active"><a href="./">Home</a></li>
-            <li><a href="https://www.slizz-store.myshopify.com">$hop</a></li>
+            <li><a href="https://www.slizz-shop.myshopify.com">$hop</a></li>
           </ul>
         </nav>
       </div>
