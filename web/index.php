@@ -54,8 +54,7 @@
         <nav>
           <ul class="nav masthead-nav">
             <li class="active"><a href="./">Home</a></li>
-            <li><a href="./media">Media</a></li>
-            <li><a href="./roster">Washington Slizzards</a></li>
+            <li><a href="./shop">$lizz $hop</a></li>
           </ul>
         </nav>
       </div>
