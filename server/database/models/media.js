@@ -8,7 +8,7 @@ const mediaSchema = new Schema({
 	url: { type: String, unique: false, required: true },
     title: { type: String, unique: false, required: true },
     artists: { type: String, unique: false, required: true },
-    description: { type: String, unique: false, required: true },
+    description: { type: String, unique: false, required: false },
     platform: { type: String, unique: false, required: true }
 
 })

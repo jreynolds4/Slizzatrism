@@ -40,10 +40,22 @@ class MediaContent extends Component {
         return (
         <div className="MediaContent centered">
                 {this.props.media.map(song => 
-                    <div>{song.artists} - {song.title}
-                        {song.platform === "SoundCloud" &&
-                            <ReactPlayer url={song.url} />
-                        }
+                    <div>
+                        <div className="row centered divider">
+                            <div className="col-sm-3"></div>
+                            <div className="col-sm-6"><hr></hr></div>
+                            <div className="col-sm-3"></div>
+                        </div>
+                        <div>{song.artists} - {song.title}</div>
+                        <p></p>
+                        <div className="row">
+                            <div className="col-sm-3"></div>
+                            <div className="col-sm-6">
+                                {//song.platform === "SoundCloud" &&
+                                <ReactPlayer className="centered" url={song.url} width="100%" />}
+                            </div>
+                            <div className="col-sm-3"></div>
+                        </div>
                     </div>
                 )}
         </div>

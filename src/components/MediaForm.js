@@ -12,7 +12,7 @@ class MediaForm extends Component {
             title: '',
             url: '',
             artists: '',
-            description: '',
+            description: 'description',
             platform: '',
             urlError: '',
             spotifyTheme: 'black',
@@ -22,7 +22,7 @@ class MediaForm extends Component {
         this.handleSubmit = this.handleSubmit.bind(this)
         this.handleChange = this.handleChange.bind(this)
         this.handleURLChange = this.handleURLChange.bind(this)
-        this.invalidURL = this.invalidURL.bind(this)
+        this.validURL = this.validURL.bind(this)
         this.displayYouTubePreview = this.displayYouTubePreview.bind(this)
         this.displaySpotifyPreview = this.displaySpotifyPreview.bind(this)
 
@@ -50,8 +50,8 @@ class MediaForm extends Component {
         })
     }
 
-    invalidURL(){
-        return (!this.state.url.includes('youtube') && !this.state.url.includes('soundcloud') && !this.state.url.includes('spotify'))
+    validURL(){
+        return (this.state.url.includes('youtube') || this.state.url.includes('soundcloud') || this.state.url.includes('spotify'))
     }
 
     displayYouTubePreview() {
@@ -93,16 +93,17 @@ class MediaForm extends Component {
         />);
     }
 
-    handleSubmit(event) {
+    handleSubmit(event, ) {
         event.preventDefault()
         console.log('handleSubmit')
 
-        if(this.invalidURL){
+        if(!this.validURL){
+            console.log('invalidURL')
+            console.log(this.state)
             this.setState({
                 urlError: 'Invalid URL!'
             })
         } else {
-
         axios
             .post('/media/', {
                 title: this.state.title,

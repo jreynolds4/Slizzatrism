@@ -11,7 +11,9 @@ a:hover {
 color: white;
 }
 
-
+.divider > div > hr {
+  color: white;
+}
 
 body {
 padding-top: 30px;
