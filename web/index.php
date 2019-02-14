@@ -109,10 +109,10 @@
         <div class="col-sm-6"><hr></div>
         <div class="col-sm-3"></div>
       </div>
-
+      
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead"></div>
+        <div class="col-sm-6 lead">Arckitech - In My Zone (Official Music Video)</div>
         <div class="col-sm-3"></div>
       </div>
 
@@ -120,15 +120,34 @@
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
           <p></p>
-          <img src="images/show-la-11-30.jpg" alt="LA Show">
-          <p></p>
-          <p><button type="button" class="btn btn-success"><a href="https://www.eventbrite.com/e/ras-nebyu-live-on-sunset-blvd-tickets-52682487739">Click Here for Tickets</a></button></p>
+          <iframe width="100%" height="300" src="https://www.youtube.com/embed/yZQbjNK0Dtc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <div class="col-sm-3"></div>
       </div>
       
       <!-- END -->
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">Ras Nebyu - My Soul to Keep (Official Music Video)</div>
+        <div class="col-sm-3"></div>
+      </div>
 
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <iframe width="100%" height="300" src="https://www.youtube.com/embed/ImD1_gkLbqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+      
       <div class="row centered">
         <div class="col-sm-3"></div>
         <div class="col-sm-6"><hr></div>
@@ -137,7 +156,13 @@
 
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead"></div>
+        <div class="col-sm-6 lead">ULW MINI TOUR</div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="http://www.songbyrddc.com/shows/2018-12-13-ras-nebyu">Click Here for Tickets</a></button></p></div>
         <div class="col-sm-3"></div>
       </div>
 
@@ -145,9 +170,8 @@
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
           <p></p>
-          <img src="images/show-dc-12-13.jpg" alt="DC Show">
+          <img src="images/show-dc-12-13.jpg" alt="DC Show" width="100%" height="auto">
           <p></p>
-          <p><button type="button" class="btn btn-success"><a href="https://www.songbyrddc.com">Click Here for Tickets</a></button></p>
         </div>
         <div class="col-sm-3"></div>
       </div>
