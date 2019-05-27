@@ -112,6 +112,36 @@
       
       <div class="row centered">
         <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">Helen Hailu & Ras Nebyu LIVE</div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="https://www.eventbrite.com/e/abyssinia-helen-hailu-ras-nebyu-tickets-62294399225">Click Here for Tickets</a></button></p></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <img src="images/neb_mini_tour1.jpg" alt="Helen Hailu & Ras Nebyu LIVE" width="100%" height="auto">
+          <p></p>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <!-- END -->
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
         <div class="col-sm-6 lead">Ras Nebyu - Black Favre (Official Music Video)</div>
         <div class="col-sm-3"></div>
       </div>
@@ -124,8 +154,6 @@
         </div>
         <div class="col-sm-3"></div>
       </div>
-      
-      <!-- END -->
       
       <div class="row centered">
         <div class="col-sm-3"></div>
