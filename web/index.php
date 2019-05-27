@@ -112,7 +112,7 @@
       
       <div class="row centered">
         <div class="col-sm-3"></div>
-        <div class="col-sm-6 lead">Helen Hailu & Ras Nebyu LIVE</div>
+        <div class="col-sm-6 lead">Helen Hailu <span class="ampersand">& </span> Ras Nebyu LIVE</div>
         <div class="col-sm-3"></div>
       </div>
       
