@@ -112,6 +112,36 @@
       
       <div class="row centered">
         <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">freejacob - Life is Free</div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <img src="images/freejacob-life-is-free.jpg" alt="freejacob Life is Free Album Cover" width="100%" height="auto">
+          <p></p>
+        </div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="https://ampl.ink/d28vJ">Click Here for Album Link</a></button></p></div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <!-- END -->
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+      
+      <div class="row centered">
+        <div class="col-sm-3"></div>
         <div class="col-sm-6 lead">Helen Hailu <span class="ampersand">& </span> Ras Nebyu LIVE</div>
         <div class="col-sm-3"></div>
       </div>
@@ -131,8 +161,6 @@
         </div>
         <div class="col-sm-3"></div>
       </div>
-      
-      <!-- END -->
       
       <div class="row centered">
         <div class="col-sm-3"></div>
