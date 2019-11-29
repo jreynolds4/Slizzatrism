@@ -99,9 +99,6 @@
       <p class="lead">
         The Official Website of The Washington Slizzards
       </p>
-
-<div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6"><hr></div> <div class="col-sm-3"></div> </div> <div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6 lead">Ras Nebyu - Days Later (Official Music Video)</div> <div class="col-sm-3"></div> </div> <div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6"> <p></p> <iframe width="100%" height="315" src="https://www.youtube.com/embed/BRReB5KStjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <p></p> </div> <div class="col-sm-3"></div> </div> <div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6"><p></p></div> <div class="col-sm-3"></div> </div>
-     
             
       <!-- EDIT HERE -->
 
@@ -122,7 +119,7 @@
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
           <p></p>
-          <img src="images/holy-slizz-5.jpg" alt="DC Show" width="100%" height="auto">
+          <img src="images/IMG_4760.jpg" alt="Holy Slizz 5" width="100%" height="auto">
           <p></p>
         </div>
         <div class="col-sm-3"></div>
@@ -135,7 +132,8 @@
       </div>
 
 
-
+<div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6"><hr></div> <div class="col-sm-3"></div> </div> <div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6 lead">Ras Nebyu - Days Later (Official Music Video)</div> <div class="col-sm-3"></div> </div> <div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6"> <p></p> <iframe width="100%" height="315" src="https://www.youtube.com/embed/BRReB5KStjo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <p></p> </div> <div class="col-sm-3"></div> </div> <div class="row centered"> <div class="col-sm-3"></div> <div class="col-sm-6"><p></p></div> <div class="col-sm-3"></div> </div>
+     
       
       <div class="row centered">
         <div class="col-sm-3"></div>
