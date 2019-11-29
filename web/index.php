@@ -104,6 +104,38 @@
      
             
       <!-- EDIT HERE -->
+
+
+<div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><hr></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6 lead">Holy Slizz 5</div>
+        <div class="col-sm-3"></div>
+      </div>
+
+      <div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6">
+          <p></p>
+          <img src="images/holy-slizz-5.jpg" alt="DC Show" width="100%" height="auto">
+          <p></p>
+        </div>
+        <div class="col-sm-3"></div>
+  </div>
+
+<div class="row centered">
+        <div class="col-sm-3"></div>
+        <div class="col-sm-6"><p><button type="button" class="btn btn-success"><a href="https://www.bigneon.com/tickets/holiday-slizz-5-washington">Click Here for Tickets</a></button></p></div>
+        <div class="col-sm-3"></div>
+      </div>
+
+
+
       
       <div class="row centered">
         <div class="col-sm-3"></div>
