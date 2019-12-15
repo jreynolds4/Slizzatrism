@@ -119,7 +119,7 @@
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
           <p></p>
-          <img src="images/IMG_4760.jpg" alt="Holy Slizz 5" width="100%" height="auto">
+          <img src="images/IMG_4799.jpg" alt="Holy Slizz 5" width="100%" height="auto">
           <p></p>
         </div>
         <div class="col-sm-3"></div>
